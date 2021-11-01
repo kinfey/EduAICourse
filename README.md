@@ -80,4 +80,34 @@ ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/04-LinearMultiClas
 ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/05-ActivationFunction.pdf" target="_blank">05-ActivationFunction.pdf</a>
 
 
+线上视频: <a href="https://www.bilibili.com/video/BV1644y1x78G?spm_id_from=333.999.0.0" target="_blank">点击观看</a>
+
+
+## **07. 非线性回归**
+
+基于单入单出的双层神经网络的非线性回归实现。
+
+
+课程内容地址: <a href="https://microsoft.github.io/ai-edu/%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/A2-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/%E7%AC%AC4%E6%AD%A5%20-%20%E9%9D%9E%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/08%20%E7%AC%AC%E5%9B%9B%E6%AD%A5%20-%20%E9%9D%9E%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.html" target="_blank">非线性回归</a>
+
+
+ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/06-NonlinearRegression.pdf" target="_blank">06-NonlinearRegression.pdf</a>
+
+
+线上视频: <a href="https://www.bilibili.com/video/BV16L4y1B7k7?spm_id_from=333.999.0.0" target="_blank">点击观看</a>
+
+
+## **08. 非线性分类**
+
+非线性二分类，多分类介绍。
+
+
+课程内容地址: <a href="https://microsoft.github.io/ai-edu/%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/A2-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/%E7%AC%AC5%E6%AD%A5%20-%20%E9%9D%9E%E7%BA%BF%E6%80%A7%E5%88%86%E7%B1%BB/10%20%E7%AC%AC%E4%BA%94%E6%AD%A5%20-%20%E9%9D%9E%E7%BA%BF%E6%80%A7%E5%88%86%E7%B1%BB.html" target="_blank">非线性分类</a>
+
+
+ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/07-NonlinearClassicfication.pdf" target="_blank">07-NonlinearClassicfication.pdf</a>
+
+
+线上视频: <a href="https://www.bilibili.com/video/BV17v41137hp?spm_id_from=333.999.0.0" target="_blank">点击观看</a>
+
 

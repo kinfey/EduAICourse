@@ -117,7 +117,7 @@ ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/07-NonlinearClassi
 小结 分类vs回归  线性vs非线性 神经网络等知识  
 
 
-ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/07-NonlinearClassicfication.pdf" target="_blank">08-Review.pdf</a>
+ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/08-Review.pdf" target="_blank">08-Review.pdf</a>
 
 
 线上视频: <a href="https://www.bilibili.com/video/BV17v41137hp?spm_id_from=333.999.0.0" target="_blank">点击观看</a>

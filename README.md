@@ -112,7 +112,7 @@ ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/07-NonlinearClassi
 
 
 
-## **08. 机器学习知识相关汇总**
+## **09. 机器学习知识相关汇总**
 
 小结 分类vs回归  线性vs非线性 神经网络等知识  
 

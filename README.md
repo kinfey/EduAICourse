@@ -123,3 +123,18 @@ ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/08-Review.pdf" tar
 线上视频: <a href="#" target="_blank">点击观看</a>
 
 
+## **10. PyTorch基础**
+
+PyTorch 基础知识介绍  
+
+
+课程内容地址: <a href="https://aka.ms/PytorchStudy" target="_blank">PyTorch 基础知识介绍  </a>
+
+
+
+ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/09-PyTorch.pdf" target="_blank">09-PyTorch.pdf</a>
+
+
+线上视频: <a href="#" target="_blank">点击观看</a>
+
+

@@ -131,6 +131,9 @@ PyTorch 基础知识介绍
 课程内容地址: <a href="https://aka.ms/PytorchStudy" target="_blank">PyTorch 基础知识介绍  </a>
 
 
+代码：code/PyTorch/
+
+
 
 ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/09-PyTorch.pdf" target="_blank">09-PyTorch.pdf</a>
 

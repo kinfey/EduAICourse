@@ -120,7 +120,7 @@ ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/07-NonlinearClassi
 ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/08-Review.pdf" target="_blank">08-Review.pdf</a>
 
 
-线上视频: <a href="#" target="_blank">点击观看</a>
+线上视频: <a href="https://www.bilibili.com/video/BV1sU4y1g7nm" target="_blank">点击观看</a>
 
 
 ## **10. PyTorch基础**
@@ -131,11 +131,29 @@ PyTorch 基础知识介绍
 课程内容地址: <a href="https://aka.ms/PytorchStudy" target="_blank">PyTorch 基础知识介绍  </a>
 
 
-代码：code/PyTorch/
+代码：code/ch10/
 
 
 
 ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/09-PyTorch.pdf" target="_blank">09-PyTorch.pdf</a>
+
+
+线上视频: <a href="https://www.bilibili.com/video/BV1wF411Y7Hj" target="_blank">点击观看</a>
+
+
+## **11. 深度学习**
+
+深度学习介绍  
+
+
+课程内容地址: <a href="https://microsoft.github.io/ai-edu/%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/A2-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/%E7%AC%AC7%E6%AD%A5%20-%20%E6%B7%B1%E5%BA%A6%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/14%20%E7%AC%AC%E4%B8%83%E6%AD%A5%20-%20%E6%B7%B1%E5%BA%A6%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.html" target="_blank">深度学习 </a>
+
+
+代码：code/ch11/
+
+
+
+ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/10-DeepLearning.pdf" target="_blank">10-DeepLearning.pdf</a>
 
 
 线上视频: <a href="#" target="_blank">点击观看</a>

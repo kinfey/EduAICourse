@@ -159,3 +159,21 @@ ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/10-DeepLearning.pd
 线上视频: <a href="#" target="_blank">点击观看</a>
 
 
+## **11. 模型应用与部署**
+
+ONNX介绍
+
+
+课程内容地址: <a href="https://microsoft.github.io/ai-edu/%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/A2-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/%E7%AC%AC6%E6%AD%A5%20-%20%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2/13%20%E7%AC%AC%E5%85%AD%E6%AD%A5%20-%20%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%8E%A8%E7%90%86%E4%B8%8E%E9%83%A8%E7%BD%B2.html" target="_blank">模型应用与部署</a>
+
+
+代码：code/ch12/
+
+
+
+ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/11-ModelInferenceAndDeployment.pdf" target="_blank">11-ModelInferenceAndDeployment.pdf</a>
+
+
+线上视频: <a href="#" target="_blank">点击观看</a>
+
+

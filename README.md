@@ -159,7 +159,7 @@ ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/10-DeepLearning.pd
 线上视频: <a href="#" target="_blank">点击观看</a>
 
 
-## **11. 模型应用与部署**
+## **12. 模型应用与部署**
 
 ONNX介绍
 

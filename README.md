@@ -10,7 +10,7 @@
 
 ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/00-MLIntro.pdf" target="_blank">00-MLIntro.pdf</a>
 
-线上视频: <a href="https://www.bilibili.com/video/BV1JL411t79C?spm_id_from=333.999.0.0" target="_blank">点击观看</a>
+线上视频: <a href="https://www.bilibili.com/video/BV1JL411t79C" target="_blank">点击观看</a>
 
 ## **02. 单变量线性回归**
 
@@ -23,7 +23,7 @@ ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/01-MLRegression1.p
 
 代码：code/ch02/
 
-线上视频: <a href="https://www.bilibili.com/video/BV1Hf4y1A7Ku?spm_id_from=333.999.0.0" target="_blank">点击观看</a>
+线上视频: <a href="https://www.bilibili.com/video/BV1Hf4y1A7Ku" target="_blank">点击观看</a>
 
 ## **03. 多变量线性回归**
 
@@ -36,7 +36,7 @@ ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/02-MLRegression2.p
 
 代码：code/ch03/
 
-线上视频: <a href="https://www.bilibili.com/video/BV1EP4y1Y7iv?spm_id_from=333.999.0.0" target="_blank">点击观看</a>
+线上视频: <a href="https://www.bilibili.com/video/BV1EP4y1Y7iv" target="_blank">点击观看</a>
 
 
 ## **04. 线性二分类**
@@ -51,7 +51,7 @@ ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/03-LinearBinaryCla
 代码：code/ch04/
 
 
-线上视频: <a href="https://www.bilibili.com/video/BV1g3411m7wM?spm_id_from=333.999.0.0" target="_blank">点击观看</a>
+线上视频: <a href="https://www.bilibili.com/video/BV1g3411m7wM" target="_blank">点击观看</a>
 
 
 ## **05. 线性多分类**
@@ -66,7 +66,7 @@ ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/04-LinearMultiClas
 代码：code/ch05/
 
 
-线上视频: <a href="https://www.bilibili.com/video/BV1UL411W7fV?spm_id_from=333.999.0.0" target="_blank">点击观看</a>
+线上视频: <a href="https://www.bilibili.com/video/BV1UL411W7fV" target="_blank">点击观看</a>
 
 
 ## **06. 激活函数**
@@ -80,7 +80,7 @@ ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/04-LinearMultiClas
 ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/05-ActivationFunction.pdf" target="_blank">05-ActivationFunction.pdf</a>
 
 
-线上视频: <a href="https://www.bilibili.com/video/BV1644y1x78G?spm_id_from=333.999.0.0" target="_blank">点击观看</a>
+线上视频: <a href="https://www.bilibili.com/video/BV1644y1x78G" target="_blank">点击观看</a>
 
 
 ## **07. 非线性回归**
@@ -94,7 +94,7 @@ ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/05-ActivationFunct
 ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/06-NonlinearRegression.pdf" target="_blank">06-NonlinearRegression.pdf</a>
 
 
-线上视频: <a href="https://www.bilibili.com/video/BV16L4y1B7k7?spm_id_from=333.999.0.0" target="_blank">点击观看</a>
+线上视频: <a href="https://www.bilibili.com/video/BV16L4y1B7k7" target="_blank">点击观看</a>
 
 
 ## **08. 非线性分类**
@@ -108,7 +108,7 @@ ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/06-NonlinearRegres
 ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/07-NonlinearClassicfication.pdf" target="_blank">07-NonlinearClassicfication.pdf</a>
 
 
-线上视频: <a href="https://www.bilibili.com/video/BV17v41137hp?spm_id_from=333.999.0.0" target="_blank">点击观看</a>
+线上视频: <a href="https://www.bilibili.com/video/BV17v41137hp" target="_blank">点击观看</a>
 
 
 
@@ -189,7 +189,7 @@ ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/11-ModelInferenceA
 
 
 
-ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/12-Convolutional Neural Networks.pdf" target="_blank">12-Convolutional Neural Networks.pdf</a>
+ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/12-ConvolutionalNeuralNetworks.pdf" target="_blank">12-Convolutional Neural Networks.pdf</a>
 
 
 线上视频: <a href="#" target="_blank">点击观看</a>

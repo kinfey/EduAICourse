@@ -189,7 +189,25 @@ ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/11-ModelInferenceA
 
 
 
-ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/12-ConvolutionalNeuralNetworks.pdf" target="_blank">12-Convolutional Neural Networks.pdf</a>
+ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/12-ConvolutionalNeuralNetworks.pdf" target="_blank">12-ConvolutionalNeuralNetworks.pdf</a>
+
+
+线上视频: <a href="#" target="_blank">点击观看</a>
+
+
+## **14. 循环神经网络的学习**
+
+卷积神经网络学习
+
+
+课程内容地址: <a href="https://microsoft.github.io/ai-edu/%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/A2-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/%E7%AC%AC9%E6%AD%A5%20-%20%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/19%20%E7%AC%AC%E4%B9%9D%E6%AD%A5%20-%20%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.html" target="_blank">循环神经网络</a>
+
+
+代码：code/ch14/
+
+
+
+ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/13-RecurrentNeuralNetwork.pdf" target="_blank">13-RecurrentNeuralNetwork.pdf</a>
 
 
 线上视频: <a href="#" target="_blank">点击观看</a>

@@ -181,7 +181,7 @@ ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/11-ModelInferenceA
 
 ## **13. 卷积神经网络的学习**
 
-卷积神经网络学习
+卷积神经网络是深度学习中的一个里程碑式的技术，有了这个技术，才会让计算机有能力理解图片和视频信息，才会有计算机视觉的众多应用。在本部分的学习中，将会逐步介绍卷积的前向计算、卷积的反向传播、池化的前向计算与反向传播，然后用代码实现一个卷积网络并训练一些实际数据。
 
 
 课程内容地址: <a href="https://microsoft.github.io/ai-edu/%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/A2-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/%E7%AC%AC8%E6%AD%A5%20-%20%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/17%20%E7%AC%AC%E5%85%AB%E6%AD%A5%20-%20%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.html" target="_blank">卷积神经网络</a>
@@ -199,7 +199,7 @@ ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/12-ConvolutionalNe
 
 ## **14. 循环神经网络的学习**
 
-卷积神经网络学习
+循环神经网络实际上前馈全连接神经网络的一种扩展，如果你已经掌握了全连接神经网络中的算法、公式推导等知识，那么学习循环神经网络会很容易。在普通循环神经网络部分，将先介绍只有两个时间步的网络，然后扩展到四个时间步，通过软件工程的抽象，进一步扩展到通用的网络模型。然后介绍不定长时序循环神经网络、深度循环神经网络、双向循环神经网络。通过这一部分的学习，使读者对于循环神经网络的基本原理有透彻的理解。在高级循环神经网络部分，将介绍LSTM、GRU、序列到序列的模型的原理，为以后学习自然语言处理（Natural Language Processing，NLP）打下坚实的基础。
 
 
 课程内容地址: <a href="https://microsoft.github.io/ai-edu/%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/A2-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/%E7%AC%AC9%E6%AD%A5%20-%20%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/19%20%E7%AC%AC%E4%B9%9D%E6%AD%A5%20-%20%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.html" target="_blank">循环神经网络</a>

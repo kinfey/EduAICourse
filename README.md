@@ -1,6 +1,6 @@
 # **一起学人工智能系列**
 
-该课程基于微软亚洲研究院开发的人工智能课程，具体资料<a href="https://github.com/microsoft/ai-edu">https://github.com/microsoft/ai-edu</a>
+该课程基于微软亚洲研究院开发的人工智能课程，具体资料<a href="https://microsoft.github.io/ai-edu/">https://microsoft.github.io/ai-edu/</a>
 
 ## **01. 人工智能基础**
 
@@ -208,6 +208,21 @@ ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/12-ConvolutionalNe
 
 
 ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/13-RecurrentNeuralNetwork.pdf" target="_blank">13-RecurrentNeuralNetwork.pdf</a>
+
+
+线上视频: <a href="#" target="_blank">点击观看</a>
+
+
+## **15. 网络优化**
+
+随着网络的加深，训练变得越来越困难，时间越来越长，原因：参数多/数据量大/梯度消失/损失函数坡度平缓等，为了解决这些问题，科学家们在深入研究网络表现的前提下，发现在下面这些方向上经过一些努力，可以给深度网络的训练带来或多或少的改善，权重矩阵初始化/批量归一化/梯度下降优化算法/自适应学习率算法
+
+
+课程内容地址: <a href="https://microsoft.github.io/ai-edu/%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/A2-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/%E7%AC%AC7%E6%AD%A5%20-%20%E6%B7%B1%E5%BA%A6%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/15.0-%E7%BD%91%E7%BB%9C%E4%BC%98%E5%8C%96.html" target="_blank">网络优化</a>
+
+
+
+ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/14-NetworkOptimization.pdf" target="_blank">14-NetworkOptimization.pdf</a>
 
 
 线上视频: <a href="#" target="_blank">点击观看</a>

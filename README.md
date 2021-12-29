@@ -145,7 +145,7 @@ ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/09-PyTorch.pdf" ta
 
 ## **11. 深度学习**
 
-深度学习介绍  
+探讨深度学习的一些细节，如权重矩阵初始化、梯度下降优化算法、批量归一化等高级知识 
 
 
 课程内容地址: <a href="https://microsoft.github.io/ai-edu/%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/A2-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/%E7%AC%AC7%E6%AD%A5%20-%20%E6%B7%B1%E5%BA%A6%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/14%20%E7%AC%AC%E4%B8%83%E6%AD%A5%20-%20%E6%B7%B1%E5%BA%A6%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.html" target="_blank">深度学习 </a>

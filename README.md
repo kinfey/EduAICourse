@@ -127,7 +127,7 @@ ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/08-Review.pdf" tar
 
 ## **10. PyTorch基础**
 
-PyTorch 基础知识介绍  
+在前面的学习中，我们了解了机器学习、神经网络的概念和基本原理，学习了机器学习里面的线性二分类、线性多分类、非线性而分类、非线性多分类等知识。本节课程，我们将在此基础上，引入深度学习框架——PyTorch。它是一种简洁高效、易于安装及上手的深度学习框架。  
 
 
 课程内容地址: <a href="https://aka.ms/PytorchStudy" target="_blank">PyTorch 基础知识介绍  </a>

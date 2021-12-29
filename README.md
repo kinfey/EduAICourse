@@ -1,6 +1,6 @@
 # **一起学人工智能系列**
 
-该课程基于微软亚洲研究院开发的人工智能课程，具体资料<a href="https://microsoft.github.io/ai-edu/">https://microsoft.github.io/ai-edu/</a>
+该课程基于微软亚洲研究院开发的人工智能课程，具体资料：<a href="https://microsoft.github.io/ai-edu/%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/index.html">点击进入</a>
 
 ## **01. 人工智能基础**
 

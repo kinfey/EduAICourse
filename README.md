@@ -212,7 +212,7 @@ ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/12-ConvolutionalNe
 ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/13-RecurrentNeuralNetwork.pdf" target="_blank">13-RecurrentNeuralNetwork.pdf</a>
 
 
-线上视频: <a href="#" target="_blank">点击观看</a>
+线上视频: <a href="https://www.bilibili.com/video/BV1ob4y1Y7wh" target="_blank">点击观看</a>
 
 
 ## **15. 网络优化**
@@ -227,6 +227,6 @@ ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/13-RecurrentNeural
 ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/14-NetworkOptimization.pdf" target="_blank">14-NetworkOptimization.pdf</a>
 
 
-线上视频: <a href="#" target="_blank">点击观看</a>
+线上视频: <a href="https://www.bilibili.com/video/BV1g34y167oA" target="_blank">点击观看</a>
 
 

@@ -194,7 +194,7 @@ ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/11-ModelInferenceA
 ppt: <a href="https://github.com/kinfey/EduAICourse/blob/main/12-ConvolutionalNeuralNetworks.pdf" target="_blank">12-ConvolutionalNeuralNetworks.pdf</a>
 
 
-线上视频: <a href="#" target="_blank">点击观看</a>
+线上视频: <a href="https://www.bilibili.com/video/BV13P4y1E7yf" target="_blank">点击观看</a>
 
 
 ## **14. 循环神经网络**
